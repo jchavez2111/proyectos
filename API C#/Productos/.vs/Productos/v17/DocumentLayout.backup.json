@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JFCHC\\Desktop\\API C#\\Productos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B46871F-55E0-4617-86D9-E7A8001CFD32}|Productos\\Productos.csproj|c:\\users\\jfchc\\desktop\\api c#\\productos\\productos\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B46871F-55E0-4617-86D9-E7A8001CFD32}|Productos\\Productos.csproj|solutionrelative:productos\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\JFCHC\\Desktop\\API C#\\Productos\\Productos\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Productos\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\JFCHC\\Desktop\\API C#\\Productos\\Productos\\Models\\Producto.cs",
+              "RelativeToolTip": "Productos\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:59:05.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
